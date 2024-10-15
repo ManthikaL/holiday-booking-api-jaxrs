@@ -1,0 +1,17 @@
+com\coursework\model\Booking.class
+com\coursework\model\Room.class
+com\coursework\resource\PaymentResource.class
+com\coursework\dao\RoomDAO.class
+com\mycompany\clientservercw\resources\JavaEE8Resource.class
+com\coursework\dao\PaymentDAO.class
+com\coursework\resource\BookingResource.class
+com\coursework\resource\CustomerResource.class
+com\coursework\resource\RoomResource.class
+com\coursework\model\Customer.class
+com\coursework\model\Payment.class
+com\coursework\model\Hotel.class
+com\coursework\dao\CustomerDAO.class
+com\coursework\dao\HotelDAO.class
+com\coursework\dao\BookingDAO.class
+com\coursework\resource\HotelResource.class
+com\mycompany\clientservercw\JAXRSConfiguration.class
